@@ -1,0 +1,10 @@
+			@font-face {
+				font-family: 'godofwar';
+				font-style: normal;
+				src: url('151127103446godofwar.eot');
+				src: local('godofwar'), url('151127103446godofwar.eot') format('embedded-opentype'), url('151127103446godofwar.woff') format('woff');
+			}
+						.godofwar{
+					font-family: 'godofwar' !important;
+				}
+		
